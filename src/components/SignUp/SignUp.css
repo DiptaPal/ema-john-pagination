@@ -1,0 +1,23 @@
+.form-container-singup{
+    width: 500px;
+    height: 750px;
+    border: 1px solid #95A0A7;
+    border-radius: 8px;
+    margin: 6vh auto;
+    padding-left: 60px;
+}
+.google{
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 0;  
+}
+.google-text{
+    padding-left: 10px;
+}
+.text-error{
+    color: red;
+    text-align: center;
+    margin-left: -75px;
+}

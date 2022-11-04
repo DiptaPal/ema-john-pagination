@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 10vh;
+}
+.right-side{
+    display: flex;
+    flex-direction: column;
+    gap: 70px;
+
+}
+.offer{
+    color: rgb(255, 174, 0);
+    font-weight: 700;
+}
+.heading{
+    font-size: 40px;
+    font-weight: 700;
+    margin: 0;
+}
+.title{
+    margin: 0;
+}
+.btn{
+    cursor: pointer;
+    padding: 10px 20px;
+    background-color: rgb(255, 153, 0);
+    font-size: 18px;
+    border: none;
+    border-radius: 3px;
+
+}
